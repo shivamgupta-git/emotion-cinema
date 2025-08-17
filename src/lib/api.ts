@@ -6,7 +6,7 @@ const mockMovies: Movie[] = [
   {
     id: '1',
     title: 'Mad Max: Fury Road',
-    poster: 'https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=300&h=450&fit=crop&auto=format',
     genres: ['Action', 'Adventure', 'Sci-Fi'],
     imdb: 8.1,
     year: 2015,
@@ -28,7 +28,7 @@ const mockMovies: Movie[] = [
   {
     id: '3',
     title: 'Lost in Translation',
-    poster: 'https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1485846234645-a62644f84728?w=300&h=450&fit=crop&auto=format',
     genres: ['Drama', 'Romance'],
     imdb: 7.7,
     year: 2003,
@@ -38,7 +38,7 @@ const mockMovies: Movie[] = [
   {
     id: '4',
     title: 'Her',
-    poster: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1489599328181-9b7dfafbcbce?w=300&h=450&fit=crop&auto=format',
     genres: ['Drama', 'Romance', 'Sci-Fi'],
     imdb: 8.0,
     year: 2013,
@@ -50,7 +50,7 @@ const mockMovies: Movie[] = [
   {
     id: '5',
     title: 'The Pursuit of Happyness',
-    poster: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=300&h=450&fit=crop&auto=format',
     genres: ['Biography', 'Drama'],
     imdb: 8.0,
     year: 2006,
@@ -60,7 +60,7 @@ const mockMovies: Movie[] = [
   {
     id: '6',
     title: 'Inside Out',
-    poster: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=450&fit=crop&auto=format',
     genres: ['Animation', 'Adventure', 'Comedy'],
     imdb: 8.1,
     year: 2015,
@@ -72,7 +72,7 @@ const mockMovies: Movie[] = [
   {
     id: '7',
     title: 'The Grand Budapest Hotel',
-    poster: 'https://images.unsplash.com/photo-1489599328181-9b7dfafbcbce?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=300&h=450&fit=crop&auto=format',
     genres: ['Adventure', 'Comedy', 'Crime'],
     imdb: 8.1,
     year: 2014,
@@ -82,7 +82,7 @@ const mockMovies: Movie[] = [
   {
     id: '8',
     title: 'Paddington',
-    poster: 'https://images.unsplash.com/photo-1489599328181-9b7dfafbcbce?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?w=300&h=450&fit=crop&auto=format',
     genres: ['Adventure', 'Comedy', 'Family'],
     imdb: 7.3,
     year: 2014,
@@ -94,7 +94,7 @@ const mockMovies: Movie[] = [
   {
     id: '9',
     title: 'The Secret Life of Walter Mitty',
-    poster: 'https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1489599328181-9b7dfafbcbce?w=300&h=450&fit=crop&auto=format',
     genres: ['Adventure', 'Comedy', 'Drama'],
     imdb: 7.3,
     year: 2013,
@@ -104,7 +104,7 @@ const mockMovies: Movie[] = [
   {
     id: '10',
     title: 'A Good Year',
-    poster: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&auto=format',
     genres: ['Comedy', 'Drama', 'Romance'],
     imdb: 6.9,
     year: 2006,
