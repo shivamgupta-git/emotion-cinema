@@ -16,7 +16,7 @@ const mockMovies: Movie[] = [
   {
     id: '2', 
     title: 'John Wick',
-    poster: 'https://images.unsplash.com/photo-1489599328181-9b7dfafbcbce?w=300&h=450&fit=crop',
+    poster: 'https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=300&h=450&fit=crop&auto=format',
     genres: ['Action', 'Crime', 'Thriller'],
     imdb: 7.4,
     year: 2014,
