@@ -109,6 +109,7 @@ const AppContext = createContext<{
 
 // Provider
 export function AppProvider({ children }: { children: React.ReactNode }) {
+  console.log('AppProvider initializing...');
   const [state, dispatch] = useReducer(appReducer, initialState);
 
   // Load persisted data on mount
