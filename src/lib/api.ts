@@ -101,17 +101,29 @@ const mockMovies: Movie[] = [
     trailerUrl: 'https://www.youtube.com/watch?v=QD6cy4PBQPI',
     plot: 'A daydreamer escapes his anonymous life by disappearing into a world of fantasies filled with heroism and romance.'
   },
-  {
-    id: '10',
-    title: 'A Good Year',
-    poster: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&auto=format',
-    genres: ['Comedy', 'Drama', 'Romance'],
-    imdb: 6.9,
-    year: 2006,
-    trailerUrl: 'https://www.youtube.com/watch?v=B3Z9GJ0fSvU',
-    plot: 'A British investment broker inherits his uncle\'s chateau and vineyard in Provence, where he spent much of his childhood.'
-  }
-];
+   {
+     id: '10',
+     title: 'A Good Year',
+     poster: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&auto=format',
+     genres: ['Comedy', 'Drama', 'Romance'],
+     imdb: 6.9,
+     year: 2006,
+     trailerUrl: 'https://www.youtube.com/watch?v=B3Z9GJ0fSvU',
+     plot: 'A British investment broker inherits his uncle\'s chateau and vineyard in Provence, where he spent much of his childhood.'
+   },
+   
+   // Horror mood movies
+   {
+     id: '11',
+     title: 'The Conjuring: Last Rites',
+     poster: 'https://picsum.photos/300/450?random=11',
+     genres: ['Horror', 'Mystery', 'Thriller'],
+     imdb: 7.2,
+     year: 2024,
+     trailerUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+     plot: 'Ed and Lorraine Warren encounter their most terrifying case yet as they investigate a series of supernatural occurrences that challenge their faith and expertise.'
+   }
+ ];
 
 // Trending movies for homepage
 export const trendingMovies: Movie[] = mockMovies.slice(0, 8);
